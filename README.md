@@ -1,4 +1,4 @@
-# CrossoverNetwork
+# Crossover Network
 Respository for D4 Crossover Network project to display work and final presenation.
 
 Team members of Original Project:
